@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Culture Kicks Instagram Profile Logo -->
+  <circle cx="100" cy="100" r="95" fill="#FFFFFF" stroke="#111111" stroke-width="8"/>
+  <circle cx="100" cy="100" r="88" fill="#FFFFFF"/>
+  <text 
+    x="100" 
+    y="108" 
+    text-anchor="middle" 
+    font-family="'Syne', 'Arial Black', sans-serif" 
+    font-size="20" 
+    font-weight="900" 
+    letter-spacing="0.08em" 
+    fill="#111111">
+    CULTURE KICKS
+  </text>
+</svg>
